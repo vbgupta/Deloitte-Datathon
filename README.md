@@ -19,5 +19,5 @@ This repo is my take on the competition
 ## What I did:
 The plan was to look through the data and find relevant columns to find the best market to deploy the car share service.
 
-
+Look at the notebook for the data cleaning: 
 
