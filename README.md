@@ -22,6 +22,7 @@ The plan was to look through the data and find relevant columns to find the best
 Look at the notebook for the data cleaning: https://github.com/vbgupta/Deloitte-Datathon/blob/master/Deloitte.ipynb
 
 ## Solution:
+![alt text](https://github.com/vbgupta/Deloitte-Datathon/blob/master/Deloitte_Tableau_Dashboard.JPG?raw=true)
 
 
 
