@@ -1,8 +1,8 @@
 # Deloitte-Datathon
 Winner: Deloitte's first ever 48 hour Datathon at Penn State
 #### Team Memebers during the competition:
-* Harsh Gupta: harshg28101999
-* Divya Rustagi: DivyaRustagi10
+* Harsh Gupta: https://github.com/harshg28101999
+* Divya Rustagi: https://github.com/DivyaRustagi10
 * Daniel Gwak
 * Kashish Patel
 
